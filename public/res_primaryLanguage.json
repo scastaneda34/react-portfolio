@@ -1,0 +1,118 @@
+{
+    "basic_info": {
+      "description_header": "Welcome to my portfolio",
+      "description": "bio soon",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Project 1",
+        "startDate": ".",
+        "description": "",
+        "images": [
+          "images/portfolio/animal-shelter/",
+          "images/portfolio/animal-shelter/"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Project 2",
+        "startDate": ".",
+        "description": ".",
+        "images": [
+          "images/portfolio/photography/",
+          "images/portfolio/photography/"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Project 3",
+        "startDate": ".",
+        "description": "",
+        "images": [
+          "images/portfolio/adventure/",
+          "images/portfolio/adventure/"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "coming soon",
+        "title": "",
+        "years": "",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "company": "coming soon",
+        "title": "",
+        "years": "",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  }
